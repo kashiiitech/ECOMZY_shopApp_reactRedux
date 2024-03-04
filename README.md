@@ -3,6 +3,7 @@
 # Shopping App
 
 Welcome to the Shopping App project! This is a mini e-commerce application built using React and Redux. With this app, users can browse through a list of items, add them to their cart, remove items from the cart, and view the total price of their selected items.
+
 **Here is Live Demo:** https://kashiiitech-shopapp.netlify.app/
 
 ## Features
