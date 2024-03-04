@@ -54,6 +54,14 @@ Welcome to the Shopping App project! This is a mini e-commerce application built
 5. Click on the "Remove" button next to an item in the cart to remove it.
 6. The total price of the items in the cart will be displayed at the bottom.
 
-## Contributing
+## Contact Information
 
-Contributions are welcome! If you have any ideas for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request.
+If you have any questions, suggestions, or issues, feel free to reach out to me. We value your feedback and are here to help.
+
+- Project Maintainer: **Kashif Ali**
+- Email: kashiiitech@gmail.com
+---
+
+**You can also open an issue in this repository if you encounter any problems or want to request a new feature.**
+
+---
